@@ -3,4 +3,4 @@ pandas
 streamlit
 scikit-learn
 sk-learn
-pip
+pip==22.2.2
